@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianpr-pr)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **brianpr-pr/brianpr-pr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
