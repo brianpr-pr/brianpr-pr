@@ -2,6 +2,7 @@
 <h3 align="center">A passionate fullstack/backend developer from Spain</h3>
 
 <h3 align="left">Connect with me:</h3>
+<h3><a href="www.linkedin.com/in/brian-perez-perez">Linkedin</a></h3>
 <p align="left">
 </p>
 
