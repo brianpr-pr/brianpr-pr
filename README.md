@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a passionate fullstack/backend developer from Spain,<br>currently studying my last year of an associate degree en Web App Development.
 
 
