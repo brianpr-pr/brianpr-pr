@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
-<h3 align="center">A Full Stack Developer From Spain</h3>
+<h3 align="center">A Full Stack Developer From Spain, currently working in Ireland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianpr-pr&label=Profile%20views&color=0e75b6&style=flat" alt="brianpr-pr" /> </p>
 
