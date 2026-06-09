@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianpr-pr&label=Profile%20views&color=0e75b6&style=flat" alt="brianpr-pr" /> </p>
 
-- I’m currently working at **Babylon Radio**
-
 - 🌱 I’m currently learning **Nextjs and Firebase**
 
 <h3 align="left">Languages and Tools:</h3>
